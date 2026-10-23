@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ejemplo 14;Persona;;;
+FN:Persona Ejemplo 14
+ORG:Empresa de ejemplo
+TITLE:Cargo de ejemplo
+EMAIL;TYPE=WORK:persona14@example.com
+URL:https://example.com
+NOTE:Perfil actualizado: https://2xly.github.io/tarjetas/p/persona-14/
+END:VCARD
